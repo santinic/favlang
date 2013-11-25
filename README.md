@@ -4,7 +4,9 @@ It doesn't do oauth, so you can run it just few times before
 getting your IP banned.
 
 To run it:
-    $ npm install lodash request
-    $ node favlang.js username
+```
+$ npm install lodash request
+$ node favlang.js username
+```
 
 
